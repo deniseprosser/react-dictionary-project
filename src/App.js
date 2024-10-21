@@ -1,5 +1,6 @@
 import "./App.css";
 import Dictionary from "./Dictionary";
+import "bootstrap/dist/css/bootstrap.css";
 
 export default function App() {
   return (
@@ -7,7 +8,7 @@ export default function App() {
       <div className="container">
         <Dictionary />
       </div>
-      <footer>
+      <footer className="text-center">
         This project was coded by{" "}
         <a
           href="https://github.com/deniseprosser"
