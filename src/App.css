@@ -1,3 +1,11 @@
 body {
   background: #f5eee6;
 }
+
+.App footer {
+  margin-bottom: 20px;
+}
+
+.App footer a {
+  color: #c86b85;
+}
