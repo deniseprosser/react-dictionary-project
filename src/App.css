@@ -9,3 +9,9 @@ body {
 .App footer a {
   color: #c86b85;
 }
+
+@media (max-width: 800px) {
+  .App footer {
+    font-size: 12px;
+  }
+}

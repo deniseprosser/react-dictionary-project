@@ -27,3 +27,18 @@
   padding: 10px 10px;
   background: #f3d7ca;
 }
+
+@media (max-width: 800px) {
+  .Dictionary h1 {
+    font-size: 18px;
+  }
+
+  .Dictionary .search-bar {
+    width: 70%;
+  }
+
+  .Dictionary .search-button {
+    font-size: 14px;
+    width: 20%;
+  }
+}
